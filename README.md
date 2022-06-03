@@ -1,0 +1,2 @@
+# pycharm_alien_project
+alien_project1
